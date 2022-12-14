@@ -1,0 +1,7 @@
+PATCH  https://comfortable-jay-houndstooth.cyclic.app/users/1
+Content-Type: application/json
+
+{
+    "password": "mujaheed1"
+}
+ 
